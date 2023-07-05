@@ -60,3 +60,13 @@ print(fib_sequence)
 - Course on development of game applications on Unity based on BRU
 - EPAM AutoCode
 ***
+
+## 8. English language
+
+Level: A2. I actively practice English in everyday communication.
+***
+
+## 9. Photo
+
+![Photo](https://sun9-70.userapi.com/impg/IPxmCMXajx4iBcpqCY6uByv1RiWHXPV1kuznWg/jYgaCBYFLeU.jpg?size=720x1080&quality=96&sign=93dcca50c493b024600535b7c3ea656e&type=album)
+***
